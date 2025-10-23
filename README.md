@@ -1,0 +1,2 @@
+# Financial-Modeling-and-Valuation-through-MS-Excel
+This repository contains my personal Excel projects in financial modeling and valuation. I’ve built beginner-friendly models like revenue growth, and more advanced projects such as DCF, 3-statement financial models, and capital budgeting to practice applying corporate finance concepts in real-world scenarios.

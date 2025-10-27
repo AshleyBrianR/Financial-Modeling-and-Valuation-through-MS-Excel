@@ -13,7 +13,7 @@ This model benchmarks a target company’s valuation against a peer group using 
 It includes company financials, calculation of valuation multiples, and derivation of an implied valuation range for the target.
 Designed as a practical example to demonstrate the application of comps-based valuation in equity analysis.
 
-***b. Adidas Comparable Company Valuation (Comps Model):**
+**b. Adidas Comparable Company Valuation (Comps Model):**
 This model benchmarks Adidas against key industry peers — Puma, Nike, and Under Armour — using trading multiples such as EV/Revenue, EV/EBITDA, and P/E. After calculating enterprise and equity values for each peer, the model derives valuation ranges based on high, median, and average multiples. Using median multiples as the primary reference point, the model estimates an implied per-share valuation range for Adidas.
 
 ### 4. Capital Budgeting – 
@@ -25,7 +25,6 @@ Designed to illustrate decision-making in multi-project capital budgeting scenar
 
 **b. Capital Budgeting Models/Capital Budgeting Analysis – Amazon Warehouse Services.**
 This model evaluates two assumed warehouse expansion projects for Amazon: a large-scale Central Fulfillment Center and a smaller Regional Micro-Warehouse Hub. Five-year cash inflows and outflows were projected for both projects, followed by NPV, IRR, and Payback Period calculations. The results indicated strong financial viability, with IRR significantly exceeding the discount rate and NPV remaining positive. The analysis supports informed decision-making based on investment appraisal techniques.
-**
 
 ## Skills Demonstrated
 - Financial statement analysis

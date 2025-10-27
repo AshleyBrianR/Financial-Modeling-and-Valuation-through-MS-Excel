@@ -30,5 +30,3 @@ Designed to illustrate decision-making in multi-project capital budgeting scenar
 - Comparable valuation benchmarking
  
 
-### 👟 4. Capital Budgeting – Nike (Two-Project Evaluation)
-(*paste the revised Nike capital budgeting summary here*)

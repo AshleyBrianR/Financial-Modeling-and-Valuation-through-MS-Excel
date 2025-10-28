@@ -8,6 +8,9 @@ This 3-statement financial model integrates the Income Statement, Balance Sheet,
 ### 2. a. Discounted Cash Flow (DCF) Valuation Model- example
 This project contains a Discounted Cash Flow (DCF) model of XYZ Company built in Excel. It includes calculation of free cash flows (FCF), weighted average cost of capital (WACC), terminal value, discounted cash flows, and enterprise value to equity value conversion, demonstrating a complete DCF valuation workflow.
 
+**b. DCF Valuation - CocaCola.xlsx**
+This project is a DCF valuation of Coca-Cola, built using Excel. It includes key assumptions, free cash flow projections, WACC calculation, terminal value estimation, and equity valuation to determine the company’s intrinsic value.
+
 ### 3. a. Comparable Companies Valuation (Comps Analysis)- example
 This model benchmarks a target company’s valuation against a peer group using key trading multiples such as EV/EBITDA, EV/Sales, and P/E.
 It includes company financials, calculation of valuation multiples, and derivation of an implied valuation range for the target.

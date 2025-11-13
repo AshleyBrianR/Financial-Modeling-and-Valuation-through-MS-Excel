@@ -17,7 +17,7 @@ It includes company financials, calculation of valuation multiples, and derivati
 Designed as a practical example to demonstrate the application of comps-based valuation in equity analysis.
 
 **b. Adidas Comparable Company Valuation (Comps Model):**
-This model benchmarks Adidas against key industry peers — Puma, Nike, and Under Armour — using trading multiples such as EV/Revenue, EV/EBITDA, and P/E. After calculating enterprise and equity values for each peer, the model derives valuation ranges based on high, median, and average multiples. Using median multiples as the primary reference point, the model estimates an implied per-share valuation range for Adidas.
+This model benchmarks Adidas against key industry peers- Puma, Nike, and Under Armour, using trading multiples such as EV/Revenue, EV/EBITDA, and P/E. After calculating enterprise and equity values for each peer, the model derives valuation ranges based on high, median, and average multiples. Using median multiples as the primary reference point, the model estimates an implied per-share valuation range for Adidas.
 
 ### 4. Capital Budgeting – 
 **a. Nike (Two-Project Evaluation)- example**
